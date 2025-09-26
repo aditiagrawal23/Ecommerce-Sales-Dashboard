@@ -2,6 +2,7 @@
 <h1 align="center">E-commerce Sales & Profit Analysis Dashboard</h1>
 
 <p align="center">
+
 **Tool Used:**
 • Power BI - For data vizualization and presentation
 **Aim of the project :** To analyze online sales performance by studying factors such as customer, product category, state, payment mode, and time, and generate insights that help businesses optimize sales strategies, identify profitable customer segments, and understand payment preferences.
